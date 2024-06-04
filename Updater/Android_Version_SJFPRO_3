@@ -1,1 +1,3 @@
-Test
+{
+    "app":"SJ F PRO","versionName":"3.8.200","versionCode":382,"forceVersion":[{"versionName":"3.0.1","versionCode":201},{"versionName":"3.8.198a3","versionCode":8198}],"ifForce":false
+}
